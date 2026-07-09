@@ -1,61 +1,130 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2EE6A6&height=220&section=header&text=Santhosh%20Kumar%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20OSINT%20%7C%20Recon%20Automation&descAlignY=58&descSize=18" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EE6A6&center=true&vCenter=true&width=650&lines=Building+OSINT+%26+recon+tools+in+Python;107%2B+challenges+solved+on+Hack+The+Box;Red-team+%2F+blue-team+curious" alt="Typing SVG" />
+  <img src="./assets/matrix-banner.svg" width="100%" alt="TOSH>SAN banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santhoshdodo2721&style=flat-square&color=2EE6A6&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/santhoshdodo2721?style=flat-square&color=2EE6A6&label=Followers" />
+  <a href="https://santhoshdodo2721.github.io/S-NDY/"><img src="https://img.shields.io/badge/PORTFOLIO-S%40NDY-ff1744?style=for-the-badge&labelColor=0a0002" /></a>
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIPS-ff1744?style=for-the-badge&labelColor=0a0002" />
+  <img src="https://komarev.com/ghpvc/?username=santhoshdodo2721&style=for-the-badge&color=ff1744&labelColor=0a0002&label=VIEWS" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=red" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=FF1744&background=0A0002&center=true&vCenter=true&width=700&lines=root%40sandy%3A~%24+whoami;%3E+SanthoshKumar.S+%E2%80%94+Cybersecurity+Student;%3E+Zer0_Logon+%C2%B7+MoonlitCipher+Member;%3E+status%3A+forging+digital+shields_" alt="Typing SVG" />
 </p>
 
----
+<img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
 
-### 🧪 Projects
+### `[ ABOUT ]`
+
+```bash
+> cat about.txt
+
+  I'm SanthoshKumar.S, a Cybersecurity student at Sri Shakthi Institute
+  of Engineering and Technology.
+
+  Passionate about understanding how systems work and how to secure
+  them against evolving threats. I actively explore network security,
+  ethical hacking, web application security, and cryptography — and
+  compete in CTF challenges to sharpen problem-solving in real-world
+  scenarios.
+
+  Mission: build relentless technical depth and contribute to a
+  safer digital world.
+```
+
+<img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
+
+### `[ GITHUB_PROFILE_ANALYSIS ]`
+
+```bash
+> ./analyze.sh santhoshdodo2721
+
+  [+] Public repositories ......... 4
+  [+] Stars earned ................ 1
+  [+] Account tier ................ Pro (Developer Program Member)
+  [+] Primary languages ........... Python, HTML
+  [+] Repo focus ................... offensive-security tooling + writeups
+```
+
+**What the repos say about your GitHub identity:**
+
+- **`Helio_The-Recon-Tool`** and **`Try-Me-phishing-simulation`** (Python) are your core technical projects — both are hands-on security tools, not tutorials or clones, which signals genuine builder activity rather than a learning-in-public account.
+- **`S-NDY`** (HTML) is your live portfolio site — pairing a profile README with a deployed portfolio is a strong combo most student profiles don't have.
+- **`Writeups`** shows you document what you learn — recruiters and CTF teams specifically look for this.
+- Your repo count is low (4) but every repo has a clear purpose — no dead forks or empty scaffolds. That's a positive signal, but adding 2–3 more small projects (a CVE lab writeup, a Burp Suite extension, a small CTF solver script) would round out the language spread beyond just Python/HTML.
+- 1 star total means discoverability is low — a sharp README (this one), topics/tags on your repos, and sharing Helios on r/OSINT or Hacker News would help visibility more than adding more repos would.
+
+<p align="center">
+  <img src="./assets/repo-langs.svg" width="100%" alt="language breakdown of repos" />
+</p>
+
+<img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
+
+### `[ SKILLS & TOOLS ]`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-0a0002?style=for-the-badge&logo=python&logoColor=ff1744" />
+  <img src="https://img.shields.io/badge/KALI_LINUX-0a0002?style=for-the-badge&logo=kalilinux&logoColor=ff1744" />
+  <img src="https://img.shields.io/badge/BURP_SUITE-0a0002?style=for-the-badge&logo=burpsuite&logoColor=ff1744" />
+  <img src="https://img.shields.io/badge/WIRESHARK-0a0002?style=for-the-badge&logo=wireshark&logoColor=ff1744" />
+  <img src="https://img.shields.io/badge/NMAP-0a0002?style=for-the-badge&logo=nmap&logoColor=ff1744" />
+  <img src="https://img.shields.io/badge/C-0a0002?style=for-the-badge&logo=c&logoColor=ff1744" />
+</p>
+
+<p align="center">
+  <img src="./assets/skill-bars.svg" width="100%" alt="skill proficiency bars" />
+</p>
+
+<img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
+
+### `[ CERTIFICATES ]`
+
+| Cert | Year | Detail |
+|---|---|---|
+| [PSG Certification](https://drive.google.com/file/d/1MIcw0N6ZSP0AMU1ebf5teIoFKPeFz1xM/view?usp=drive_link) | 2025 | Recognition from PSG Institute of Technology and Sciences for cybersecurity excellence |
+| [REC Certificate](https://drive.google.com/file/d/1UPFtOlUrf-a9-PwiVTSZrHlUpv5ixddE/view?usp=drive_link) | 2025 | Awarded for participating in the REC cybersecurity competition |
+| [Amirtha Certificate](https://drive.google.com/file/d/1Sd_O-FuQB7n6Sd7pSp91OmHT_LC2wayp/view?usp=drive_link) | 2025 | Completion of the Amirtha security excellence program |
+| [KPR Certificate](https://drive.google.com/file/d/1ZB26jgf1iHi89EXYnDJyHfJ6qoUnp8Lm/view?usp=drive_link) | 2025 | Recognition from KPR event for outstanding cybersecurity skills |
+| [SIET CTF Award](https://drive.google.com/file/d/1c5yVpv5AlovDS4z1yacpPGAVhm1YyORX/view?usp=drive_link) | 2025 | CTF certificate earned during SIET cyber challenge competition |
+| [SIET Hackathon](https://drive.google.com/file/d/1Hoexjr74xyK7qVggWwfoUjAqknEoaoYg/view?usp=drive_link) | 2025 | Hackathon award for advanced cybersecurity participation |
+
+<img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
+
+### `[ PROJECTS ]`
 
 <p align="center">
   <a href="https://github.com/santhoshdodo2721/Helio_The-Recon-Tool">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=santhoshdodo2721&repo=Helio_The-Recon-Tool&theme=radical" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=santhoshdodo2721&repo=Helio_The-Recon-Tool&theme=radical&hide_border=true&title_color=ff1744&icon_color=ff1744&bg_color=0a0002&text_color=ffffff" />
   </a>
   <a href="https://github.com/santhoshdodo2721/Try-Me-phishing-simulation">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=santhoshdodo2721&repo=Try-Me-phishing-simulation&theme=radical" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=santhoshdodo2721&repo=Try-Me-phishing-simulation&theme=radical&hide_border=true&title_color=ff1744&icon_color=ff1744&bg_color=0a0002&text_color=ffffff" />
   </a>
 </p>
 
----
+<img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
 
-### 📊 Stats
+### `[ SYSTEM_METRICS ]`
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=santhoshdodo2721&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshdodo2721&layout=compact&theme=radical&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=santhoshdodo2721&show_icons=true&theme=radical&hide_border=true&count_private=true&icon_color=ff1744&title_color=ff1744&bg_color=0a0002&text_color=ffffff" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshdodo2721&layout=compact&theme=radical&hide_border=true&title_color=ff1744&bg_color=0a0002&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshdodo2721&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshdodo2721&theme=radical&hide_border=true&background=0a0002&stroke=ff1744&ring=ff1744&fire=ff1744&currStreakLabel=ff1744&sideNums=ff5252&dates=ff5252" />
+</p>
+
+<img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
+
+### `[ CONNECT ]`
+
+<p align="center">
+  <a href="mailto:santhoshsivgom@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0002?style=for-the-badge&logo=gmail&logoColor=ff1744" /></a>
+  <a href="https://www.linkedin.com/in/santhosh-kumar-13a419338"><img src="https://img.shields.io/badge/LINKEDIN-0a0002?style=for-the-badge&logo=linkedin&logoColor=ff1744" /></a>
+  <a href="https://github.com/santhoshdodo2721"><img src="https://img.shields.io/badge/GITHUB-0a0002?style=for-the-badge&logo=github&logoColor=ff1744" /></a>
+  <a href="https://santhoshdodo2721.github.io/S-NDY/"><img src="https://img.shields.io/badge/PORTFOLIO-0a0002?style=for-the-badge&logo=googlechrome&logoColor=ff1744" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshdodo2721&theme=react-dark&hide_border=true&area=true" width="90%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1000&color=FF1744&background=0A0002&center=true&vCenter=true&width=560&lines=Theme%3A+Blood_Crimson+v1.0;connection+closed..." alt="footer typing" />
 </p>
-
----
-
-### 📫 Reach Me
-
-<p align="center">
-  <a href="mailto:santhoshsivgom@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/santhoshdodo2721"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE6A6,100:0f2027&height=100&section=footer" />
