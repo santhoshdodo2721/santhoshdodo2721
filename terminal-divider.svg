@@ -1,0 +1,11 @@
+<svg width="900" height="46" viewBox="0 0 900 46" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="46" fill="#0a0002"/>
+  <line x1="0" y1="23" x2="900" y2="23" stroke="#ff1744" stroke-width="1" opacity="0.3"/>
+  <text x="12" y="30" font-family="Courier New, monospace" font-size="16">
+    <tspan fill="#ff1744">root@sandy</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#ff5252">~$</tspan>
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.4s" repeatCount="indefinite"/>
+  </text>
+  <rect x="200" y="15" width="9" height="16" fill="#ff1744">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
