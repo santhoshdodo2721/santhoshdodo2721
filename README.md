@@ -77,29 +77,11 @@
 
 <img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
 
-### `[ CERTIFICATES ]`
 
-| Cert | Year | Detail |
-|---|---|---|
-| [PSG Certification](https://drive.google.com/file/d/1MIcw0N6ZSP0AMU1ebf5teIoFKPeFz1xM/view?usp=drive_link) | 2025 | Recognition from PSG Institute of Technology and Sciences for cybersecurity excellence |
-| [REC Certificate](https://drive.google.com/file/d/1UPFtOlUrf-a9-PwiVTSZrHlUpv5ixddE/view?usp=drive_link) | 2025 | Awarded for participating in the REC cybersecurity competition |
-| [Amirtha Certificate](https://drive.google.com/file/d/1Sd_O-FuQB7n6Sd7pSp91OmHT_LC2wayp/view?usp=drive_link) | 2025 | Completion of the Amirtha security excellence program |
-| [KPR Certificate](https://drive.google.com/file/d/1ZB26jgf1iHi89EXYnDJyHfJ6qoUnp8Lm/view?usp=drive_link) | 2025 | Recognition from KPR event for outstanding cybersecurity skills |
-| [SIET CTF Award](https://drive.google.com/file/d/1c5yVpv5AlovDS4z1yacpPGAVhm1YyORX/view?usp=drive_link) | 2025 | CTF certificate earned during SIET cyber challenge competition |
-| [SIET Hackathon](https://drive.google.com/file/d/1Hoexjr74xyK7qVggWwfoUjAqknEoaoYg/view?usp=drive_link) | 2025 | Hackathon award for advanced cybersecurity participation |
 
 <img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
 
-### `[ PROJECTS ]`
 
-<p align="center">
-  <a href="https://github.com/santhoshdodo2721/Helio_The-Recon-Tool">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=santhoshdodo2721&repo=Helio_The-Recon-Tool&theme=radical&hide_border=true&title_color=ff1744&icon_color=ff1744&bg_color=0a0002&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/santhoshdodo2721/Try-Me-phishing-simulation">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=santhoshdodo2721&repo=Try-Me-phishing-simulation&theme=radical&hide_border=true&title_color=ff1744&icon_color=ff1744&bg_color=0a0002&text_color=ffffff" />
-  </a>
-</p>
 
 <img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
 
