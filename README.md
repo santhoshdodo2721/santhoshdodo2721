@@ -34,63 +34,32 @@
 
 <img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
 
-### `[ GITHUB_PROFILE_ANALYSIS ]`
+### `[ TECH STACK ]`
 
-```bash
-> ./analyze.sh santhoshdodo2721
-
-  [+] Public repositories ......... 4
-  [+] Stars earned ................ 1
-  [+] Account tier ................ Pro (Developer Program Member)
-  [+] Primary languages ........... Python, HTML
-  [+] Repo focus ................... offensive-security tooling + writeups
-```
-
-**What the repos say about your GitHub identity:**
-
-- **`Helio_The-Recon-Tool`** and **`Try-Me-phishing-simulation`** (Python) are your core technical projects — both are hands-on security tools, not tutorials or clones, which signals genuine builder activity rather than a learning-in-public account.
-- **`S-NDY`** (HTML) is your live portfolio site — pairing a profile README with a deployed portfolio is a strong combo most student profiles don't have.
-- **`Writeups`** shows you document what you learn — recruiters and CTF teams specifically look for this.
-- Your repo count is low (4) but every repo has a clear purpose — no dead forks or empty scaffolds. That's a positive signal, but adding 2–3 more small projects (a CVE lab writeup, a Burp Suite extension, a small CTF solver script) would round out the language spread beyond just Python/HTML.
-- 1 star total means discoverability is low — a sharp README (this one), topics/tags on your repos, and sharing Helios on r/OSINT or Hacker News would help visibility more than adding more repos would.
-
-<p align="center">
-  <img src="./assets/repo-langs.svg" width="100%" alt="language breakdown of repos" />
-</p>
-
-<img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
-
-### `[ SKILLS & TOOLS ]`
+**Languages & Frameworks:**
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-0a0002?style=for-the-badge&logo=python&logoColor=ff1744" />
+  <img src="https://img.shields.io/badge/C-0a0002?style=for-the-badge&logo=c&logoColor=ff1744" />
+  <img src="https://img.shields.io/badge/HTML-0a0002?style=for-the-badge&logo=html5&logoColor=ff1744" />
+  <img src="https://img.shields.io/badge/CSS-0a0002?style=for-the-badge&logo=css3&logoColor=ff1744" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-0a0002?style=for-the-badge&logo=javascript&logoColor=ff1744" />
+</p>
+
+**Security Tools & Platforms:**
+
+<p align="center">
   <img src="https://img.shields.io/badge/KALI_LINUX-0a0002?style=for-the-badge&logo=kalilinux&logoColor=ff1744" />
   <img src="https://img.shields.io/badge/BURP_SUITE-0a0002?style=for-the-badge&logo=burpsuite&logoColor=ff1744" />
   <img src="https://img.shields.io/badge/WIRESHARK-0a0002?style=for-the-badge&logo=wireshark&logoColor=ff1744" />
   <img src="https://img.shields.io/badge/NMAP-0a0002?style=for-the-badge&logo=nmap&logoColor=ff1744" />
-  <img src="https://img.shields.io/badge/C-0a0002?style=for-the-badge&logo=c&logoColor=ff1744" />
-</p>
-
-<p align="center">
-  <img src="./assets/skill-bars.svg" width="100%" alt="skill proficiency bars" />
+  <img src="https://img.shields.io/badge/GRAFANA-0a0002?style=for-the-badge&logo=grafana&logoColor=ff1744" />
+  <img src="https://img.shields.io/badge/PROMETHEUS-0a0002?style=for-the-badge&logo=prometheus&logoColor=ff1744" />
 </p>
 
 <img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
 
-
-
-<img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
-
-
-
-<img src="./assets/terminal-divider.svg" width="100%" alt="divider" />
-
-### `[ SYSTEM_METRICS ]`
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=santhoshdodo2721&show_icons=true&theme=radical&hide_border=true&count_private=true&icon_color=ff1744&title_color=ff1744&bg_color=0a0002&text_color=ffffff" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshdodo2721&layout=compact&theme=radical&hide_border=true&title_color=ff1744&bg_color=0a0002&text_color=ffffff" />
-</p>
+### `[ STATS & STREAK ]`
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshdodo2721&theme=radical&hide_border=true&background=0a0002&stroke=ff1744&ring=ff1744&fire=ff1744&currStreakLabel=ff1744&sideNums=ff5252&dates=ff5252" />
