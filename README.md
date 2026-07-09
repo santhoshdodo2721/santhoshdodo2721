@@ -36,7 +36,7 @@
 
 ### `[ TECH STACK ]`
 
-**Languages & Frameworks:**
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-0a0002?style=for-the-badge&logo=python&logoColor=ff1744" />
@@ -45,9 +45,6 @@
   <img src="https://img.shields.io/badge/CSS-0a0002?style=for-the-badge&logo=css3&logoColor=ff1744" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-0a0002?style=for-the-badge&logo=javascript&logoColor=ff1744" />
 </p>
-
-**Security Tools & Platforms:**
-
 <p align="center">
   <img src="https://img.shields.io/badge/KALI_LINUX-0a0002?style=for-the-badge&logo=kalilinux&logoColor=ff1744" />
   <img src="https://img.shields.io/badge/BURP_SUITE-0a0002?style=for-the-badge&logo=burpsuite&logoColor=ff1744" />
